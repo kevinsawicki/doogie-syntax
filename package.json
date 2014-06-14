@@ -2,10 +2,10 @@
   "name": "doogie-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/doogie-syntax",
+  "description": "Doogie Howser syntax theme",
+  "repository": "https://github.com/kevinsawicki/doogie-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.100.0"
   }
 }
