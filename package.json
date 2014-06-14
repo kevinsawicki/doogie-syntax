@@ -1,7 +1,7 @@
 {
   "name": "doogie-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Doogie Howser syntax theme",
   "repository": "https://github.com/kevinsawicki/doogie-syntax",
   "license": "MIT",
